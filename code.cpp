@@ -3,6 +3,7 @@
 #include <ctime>   // For time()
 using namespace std;
 
+
 enum enmSt_Pa_Sci
 {
 	Stone = 1,
