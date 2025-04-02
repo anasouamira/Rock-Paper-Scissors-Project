@@ -222,13 +222,10 @@ void StartGame() {
 	} while (isAgreeToPlay(Number));
 	
 }
-
-<<<<<<< HEAD
 int main() {
 	srand((unsigned)time(NULL));
 
 	StartGame();
 }
-=======
-}
->>>>>>> 267f980729803c1573cd5b92e949270b0b477138
+
+
